@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "axesareweapons",
   "version": "${mod_version}",
-  "name": "Axes Are Weapons",
+  "name": "Axes Are Weapons [Custom]",
   "description": "Disables the increased durability loss in combat.",
   "authors": [
     "Fourmisain"

@@ -6,7 +6,7 @@ issueTrackerURL="https://github.com/Fourmisain/AxesAreWeapons/issues"
 [[mods]]
 modId="axesareweapons"
 version="${mod_version}"
-displayName="Axes Are Weapons"
+displayName="Axes Are Weapons [Custom]"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/axes-are-weapons"
 logoFile= "icon.png"
 authors="Fourmisain"
